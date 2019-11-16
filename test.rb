@@ -24,7 +24,6 @@ def main
 	file.puts "Count: #{count}"
 	file.close
 
-	puts "Hello, world!"
 end
 
 main
